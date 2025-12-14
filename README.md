@@ -1,6 +1,6 @@
 # stripe-mock-exercise
 
-A Stripe mock exercise project.
+A Stripe mock exercise exercise.
 
 ## Installation
 
